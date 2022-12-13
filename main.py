@@ -1,5 +1,5 @@
 """ prova de CI/CD"""
-import transform
+ import transform
 
 
 def main():
@@ -21,11 +21,5 @@ def main():
         print(transform.to_capitalize(string))
     else:
         print("opció no reconegudda")
-
-"""patata """
-"""patata """
-"""patata """
-"""patata """
-"""patata """
 if __name__ == '__main__':
     main()
