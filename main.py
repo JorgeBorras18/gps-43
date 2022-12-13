@@ -23,5 +23,9 @@ def main():
         print("opció no reconegudda")
 
 """patata """
+"""patata """
+"""patata """
+"""patata """
+"""patata """
 if __name__ == '__main__':
     main()
