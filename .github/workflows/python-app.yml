@@ -44,5 +44,3 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint $(git ls-files '*.py')
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag gps-43:$(date +%s) 
