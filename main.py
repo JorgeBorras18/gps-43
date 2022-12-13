@@ -21,5 +21,8 @@ def main():
         print(transform.to_capitalize(string))
     else:
         print("opció no reconegudda")
+        
+        
 if __name__ == '__main__':
     main()
+    
