@@ -22,6 +22,6 @@ def main():
     else:
         print("opció no reconegudda")
 
-
+"""patata"""
 if __name__ == '__main__':
     main()
